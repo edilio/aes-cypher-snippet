@@ -6,9 +6,9 @@ pycrypto==2.6.1
 
 ## How to test it
 
-
+* pip install -r requirements.txt
 * cp sample.env .env
-* edit .env changing your SECRET_KEY
+* edit .env changing SECRET_KEY
 * source .env && ./cypher.py
 
 ## The snippets
